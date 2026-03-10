@@ -1,7 +1,7 @@
 # Sport Scientist
 
 ### Arlington Heights Boys Soccer Projects
-### Using sRPE/RPE questionarres and HUDL Titan GPS data
+Using sRPE/RPE questionarres and HUDL Titan GPS data
 
 
 
